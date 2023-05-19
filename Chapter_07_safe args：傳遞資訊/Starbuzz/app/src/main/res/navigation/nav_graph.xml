@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/selectCoffeeFragment">
+
+    <fragment
+        android:id="@+id/selectCoffeeFragment"
+        android:name="tw.idv.jew.starbuzz.SelectCoffeeFragment"
+        android:label="SelectCoffeeFragment"
+        tools:layout="@layout/fragment_select_coffee" >
+        <action
+            android:id="@+id/action_selectCoffeeFragment_to_coffeeFragment"
+            app:destination="@id/coffeeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/coffeeFragment"
+        android:name="tw.idv.jew.starbuzz.CoffeeFragment"
+        android:label="CoffeeFragment"
+        tools:layout="@layout/fragment_coffee" >
+        <argument
+            android:name="coffee"
+            app:argType="string" />
+    </fragment>
+</navigation>

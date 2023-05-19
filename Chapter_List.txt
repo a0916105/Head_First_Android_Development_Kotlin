@@ -1,0 +1,75 @@
+https://www.oreilly.com/library/view/head-first-android/9781492076513/
+
+
+01. Getting Started: Diving In
+02. Building Interactive Apps: Apps That Do Something
+03. Layouts: Being a layout
+04. Constraint Layouts: Draw Up a Blueprint
+05. The Activity Lifecycle: Being an Activity
+06. Fragments and Navigation: Finding Your Way
+07. Safe Args: Passing Information
+08. Navigation ui: Going Places
+09. Material Views: A Material World
+10. View Binding: Bound Together
+11. View Models: Model Behavior
+12. Live Data: Leaping into Action
+13. Data Binding: Building Smart Layouts
+14. Room Databases: Room with a View
+15. Recycler Views: Reduce, Reuse, Recycle
+16. Diffutil and Data Binding: Life in the Fast Lane
+17. Recycler View Navigation: Pick a Card
+18. Jetpack Compose: Compose Yourself
+19. Integrating Compose with views: Perfect Harmony
+A. Leftovers: The Top Ten Things (we didn’t cover)
+
+繁體中文
+http://books.gotop.com.tw/o_A691
+
+01. 千里之行，始於足下：一頭栽進 Android 世界
+02. 建立會互動的 app：會做事的 app
+03. layouts：我是 layout
+04. constraint layouts：繪製藍圖
+05. activity 的生命週期：我是 activity
+06. fragments 與 navigation：自尋出路
+07. safe args：傳遞資訊
+08. 導覽 UI：遨遊四方
+09. material views：物質（Material）世界
+10. view binding：形影不離
+11. view models：建立行為模型
+12. live data：投入 Action 的懷抱
+13. data binding：建立聰明的 layout
+14. Room 資料庫：有景觀（View）的房間（Room）
+15. recycler views：Reduce、Reuse、Recycle
+16. DiffUtil 與 Data Binding：快意人生
+17. recycler view 導覽：抽一張卡
+18. Jetpack Compose：發揮創意
+19. 將 Compose 與 view 整合起來：琴瑟合鳴
+附錄. 遺珠：十大要事（我們沒有談到的）
+①與其他app分享資料
+https://developer.android.com/training/sharing
+②WorkManager
+https://developer.android.com/topic/libraries/architecture/workmanager
+③dialog與notification
+https://developer.android.com/guide/topics/ui/dialogs?hl=zh-tw
+https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=zh-tw
+④自動測試
+https://developer.android.com/training/testing
+⑤支援不同的螢幕尺寸
+https://developer.android.com/guide/practices/screens_support#alt-layouts
+https://developer.android.com/guide/topics/large-screens/support-different-screen-sizes?hl=zh-tw#alternative-layouts
+https://developer.android.com/reference/androidx/slidingpanelayout/widget/SlidingPaneLayout
+⑥更多Compose功能
+https://developer.android.com/jetpack/compose/layouts/constraintlayout?hl=zh-tw
+https://developer.android.com/jetpack/compose?hl=zh-tw
+⑦Retrofit
+https://square.github.io/retrofit/
+https://developer.android.com/jetpack/guide?hl=zh-tw
+⑧Android Game Development Kit
+https://developer.android.com/games/agdk
+⑨CameraX
+https://developer.android.com/training/camerax?hl=zh-tw
+⑩發表你的app
+https://developer.android.com/studio/publish/preparing?hl=zh-tw
+https://play.google.com/console/about/guides/releasewithconfidence/
+https://play.google.com/console/about/guides/engage-and-retain-your-users/
+https://play.google.com/console/about/guides/growyouraudience/

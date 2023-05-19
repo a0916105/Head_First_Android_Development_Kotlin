@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/titleFragment">
+
+    <fragment
+        android:id="@+id/titleFragment"
+        android:name="tw.idv.jew.drinksapp.TitleFragment"
+        android:label="fragment_title"
+        tools:layout="@layout/fragment_title" >
+        <action
+            android:id="@+id/action_titleFragment_to_chooseTypeFragment"
+            app:destination="@id/chooseTypeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/chooseTypeFragment"
+        android:name="tw.idv.jew.drinksapp.ChooseTypeFragment"
+        android:label="fragment_choose_type"
+        tools:layout="@layout/fragment_choose_type" >
+        <action
+            android:id="@+id/action_chooseTypeFragment_to_drinksFragment"
+            app:destination="@id/drinksFragment"
+            app:popUpTo="@id/titleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/drinksFragment"
+        android:name="tw.idv.jew.drinksapp.DrinksFragment"
+        android:label="fragment_drinks"
+        tools:layout="@layout/fragment_drinks" >
+        <argument
+            android:name="drinkType"
+            app:argType="string" />
+    </fragment>
+</navigation>

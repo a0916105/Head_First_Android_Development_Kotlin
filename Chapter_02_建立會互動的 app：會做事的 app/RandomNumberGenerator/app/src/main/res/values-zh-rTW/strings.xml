@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Number Generator</string>
+    <string name="button_text">產生亂數</string>
+    <string name="no_number">亂數還沒產生</string>
+</resources>

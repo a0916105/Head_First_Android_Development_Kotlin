@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crossword</string>
+
+    <string name="string1">%sBERRY</string>
+    <string name="string2">%sBIRD</string>
+    <string name="string3">%1$s%2$s</string>
+    <string name="string4">%2$s%1$s</string>
+</resources>

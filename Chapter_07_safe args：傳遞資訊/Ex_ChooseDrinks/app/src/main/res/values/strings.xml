@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex_ChooseDrinks</string>
+
+    <string-array name="drinks_list">
+        <item>汽水</item>
+        <item>酒</item>
+        <item>果汁</item>
+        <item>白開水</item>
+    </string-array>
+</resources>
