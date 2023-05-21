@@ -1,0 +1,63 @@
+[submodule "Chapter_01_千里之行，始於足下：一頭栽進 Android 世界/MyFirstApp"]
+	path = Chapter_01_千里之行，始於足下：一頭栽進 Android 世界/MyFirstApp
+	url = git@github.com:a0916105/MyFirstApp_Head_First.git
+[submodule "Chapter_02_建立會互動的 app：會做事的 app/BeerAdviser"]
+	path = Chapter_02_建立會互動的 app：會做事的 app/BeerAdviser
+	url = git@github.com:a0916105/BeerAdviser_Head_First.git
+[submodule "Chapter_03_layouts：我是 layout/LinearLayoutExample"]
+	path = Chapter_03_layouts：我是 layout/LinearLayoutExample
+	url = git@github.com:a0916105/LinearLayoutExample_Head_First.git
+[submodule "Chapter_03_layouts：我是 layout/ScrollViewExample"]
+	path = Chapter_03_layouts：我是 layout/ScrollViewExample
+	url = git@github.com:a0916105/ScrollViewExample_Head_First.git
+[submodule "Chapter_04_constraint layouts：繪製藍圖/MyConstraintLayout"]
+	path = Chapter_04_constraint layouts：繪製藍圖/MyConstraintLayout
+	url = git@github.com:a0916105/MyConstraintLayout_Head_First.git
+[submodule "Chapter_05_activity 的生命週期：我是 activity/Stopwatch"]
+	path = Chapter_05_activity 的生命週期：我是 activity/Stopwatch
+	url = git@github.com:a0916105/Stopwatch_Head_First.git
+[submodule "Chapter_06_fragments 與 navigation：自尋出路/SecretMessage"]
+	path = Chapter_06_fragments 與 navigation：自尋出路/SecretMessage
+	url = git@github.com:a0916105/SecretMessage_Head_First.git
+[submodule "Chapter_07_safe args：傳遞資訊/SecretMessage"]
+	path = Chapter_07_safe args：傳遞資訊/SecretMessage
+	url = git@github.com:a0916105/SecretMessage_Head_First_v2.git
+[submodule "Chapter_08_導覽 UI：遨遊四方/CatChat"]
+	path = Chapter_08_導覽 UI：遨遊四方/CatChat
+	url = git@github.com:a0916105/CatChat_Head_First.git
+[submodule "Chapter_09_material views：物質（Material）世界/BitsandPizzas"]
+	path = Chapter_09_material views：物質（Material）世界/BitsandPizzas
+	url = git@github.com:a0916105/BitsandPizzas_Head_First_ch09.git
+[submodule "Chapter_10_view binding：形影不離/BitsandPizzas"]
+	path = Chapter_10_view binding：形影不離/BitsandPizzas
+	url = git@github.com:a0916105/BitsandPizzas_Head_First_ch10.git
+[submodule "Chapter_10_view binding：形影不離/Stopwatch"]
+	path = Chapter_10_view binding：形影不離/Stopwatch
+	url = git@github.com:a0916105/Stopwatch_Head_First_ch10.git
+[submodule "Chapter_11_view models：建立行為模型/GuessingGame"]
+	path = Chapter_11_view models：建立行為模型/GuessingGame
+	url = git@github.com:a0916105/GuessingGame_Head_First_ch11.git
+[submodule "Chapter_12_live data：投入 Action 的懷抱/GuessingGame"]
+	path = Chapter_12_live data：投入 Action 的懷抱/GuessingGame
+	url = git@github.com:a0916105/GuessingGame_Head_First_ch12.git
+[submodule "Chapter_13_data binding：建立聰明的 layout/GuessingGame"]
+	path = Chapter_13_data binding：建立聰明的 layout/GuessingGame
+	url = git@github.com:a0916105/GuessingGame_Head_First_ch13.git
+[submodule "Chapter_14_Room 資料庫：有景觀（View）的房間（Room）/Tasks"]
+	path = Chapter_14_Room 資料庫：有景觀（View）的房間（Room）/Tasks
+	url = git@github.com:a0916105/Tasks_Head_First_ch14.git
+[submodule "Chapter_15_recycler views：Reduce、Reuse、Recycle/Tasks"]
+	path = Chapter_15_recycler views：Reduce、Reuse、Recycle/Tasks
+	url = git@github.com:a0916105/Tasks_Head_First_ch15.git
+[submodule "Chapter_16_DiffUtil 與 Data Binding：快意人生/Tasks"]
+	path = Chapter_16_DiffUtil 與 Data Binding：快意人生/Tasks
+	url = git@github.com:a0916105/Tasks_Head_First_ch16.git
+[submodule "Chapter_17_recycler view 導覽：抽一張卡/Tasks"]
+	path = Chapter_17_recycler view 導覽：抽一張卡/Tasks
+	url = git@github.com:a0916105/Tasks_Head_First_ch17.git
+[submodule "Chapter_18_Jetpack Compose：發揮創意/TemperatureConverter"]
+	path = Chapter_18_Jetpack Compose：發揮創意/TemperatureConverter
+	url = git@github.com:a0916105/TemperatureConverter_Head_First.git
+[submodule "Chapter_19_將 Compose 與 view 整合起來：琴瑟合鳴/GuessingGame"]
+	path = Chapter_19_將 Compose 與 view 整合起來：琴瑟合鳴/GuessingGame
+	url = git@github.com:a0916105/GuessingGame_Head_First_ch19.git
